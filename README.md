@@ -11,7 +11,7 @@ Especificaciones técnicas:
     La aplicación debe estar desarrollada utilizando el lenguaje de programación Ruby.
     Se debe utilizar el framework ruby on rails para el desarrollo de la aplicación.
     La aplicación debe estar diseñada utilizando el patrón de arquitectura MVC (Modelo-Vista-Controlador).
-    Se debe utilizar una base de datos relacional para almacenar las datos. Se debe utilizar el gestor de bases de datos, PostgreSQL
+    Se debe utilizar una base de datos relacional para almacenar las datos. Debe utilizar el gestor de bases de datos, PostgreSQL
     La aplicación debe ser capaz de realizar las operaciones CRUD utilizando las funciones provistas por ruby on rails.
 
 Evaluación:
