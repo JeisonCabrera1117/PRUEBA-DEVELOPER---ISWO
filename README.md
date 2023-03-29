@@ -3,7 +3,7 @@
 Prueba técnica ISWO
 
 Se desea crear una aplicación de gestión de empleados para mejorar la eficiencia y eficacia de la gestión de recursos humanos,
-la aplicación debe dar información sobre el historial laboral y las capacitaciones realizadas por los empleados, además, cada empleado debe contar 
+la aplicación debe dar información sobre el historial laboral (trabajos anteriormente realizados) y las capacitaciones realizadas por los empleados, además, cada empleado debe contar 
 con un cargo y el cargo debe estar relacionado a una dependencia.
 
 Especificaciones técnicas:
