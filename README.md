@@ -18,10 +18,10 @@ Evaluación:
 
     El candidato debe crear una aplicación que cumpla con las especificaciones técnicas indicadas.
     La aplicación debe estar correctamente estructurada y diseñada utilizando el patrón de arquitectura MVC.
-    La aplicación debe ser capaz de realizar las operaciones CRUD correctamente, sin errores.
+    La aplicación debe ser capaz de realizar las operaciones CRUD correctamente, sin errores.Se aconseja utilizar las siguiente versiones:
     Se dará puntos extra si se construye el frond-end con react
 
-La prueba debe ser entregada en la Rama de git que contiene su nombre.
+Una vez terminada la prueba por favor subirla a su repositorio y compartirla con el usuario brindado por el chat.
 
 Se aconseja utilizar las siguiente versiones:
 
