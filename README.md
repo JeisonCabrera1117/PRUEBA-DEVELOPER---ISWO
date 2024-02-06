@@ -20,7 +20,8 @@ Evaluación:
     La aplicación debe tener una estructura y diseño adecuados siguiendo el patrón de arquitectura MVC.
     Todas las operaciones CRUD deben realizarse correctamente, sin errores.
 
-Una vez terminada la prueba por favor subirla a su repositorio y compartirla con el usuario brindado por el chat.
+Una vez terminada la prueba por favor subirla a un repositorio suyo en GITHUB y compartirla con el usuario brindado por el chat.
+Si es necesario agregar notas del proceso que se debe realizar para ejecutar su aplicación.
 
 Se aconseja utilizar las siguiente versiones:
 
