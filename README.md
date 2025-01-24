@@ -2,7 +2,7 @@
 
 Prueba técnica ISWO
 
-Se busca desarrollar una aplicación de gestión de empleados con el objetivo de optimizar la eficiencia y efectividad en la administración de recursos humanos. Esta aplicación proporcionará información detallada sobre el historial laboral de los empleados, incluyendo los trabajos previamente desempeñados, así como las capacitaciones realizadas. Además, cada empleado será asignado a un cargo específico, el cual estará vinculado a una dependencia correspondiente.
+Se busca desarrollar una aplicación de gestión de empleados con el objetivo de optimizar la eficiencia y efectividad en la administración de recursos humanos. Esta aplicación proporcionará información detallada sobre el historial laboral de los empleados, incluyendo los trabajos previamente desempeñados, así como las capacitaciones realizadas. Cada vez que se registre o actualice información relacionada con un empleado, el sistema deberá enviar una notificación informando sobre dicho cambio. Además, cada empleado será asignado a un cargo específico, el cual estará vinculado a una dependencia correspondiente.
 
 Especificaciones técnicas:
 
@@ -13,6 +13,7 @@ Especificaciones técnicas:
     La base de datos utilizada debe ser relacional y el gestor de bases de datos PostgreSQL.
     La aplicación debe ser capaz de realizar operaciones CRUD.
     El FRONT-END debe ser desarrollado con React y hacer uso de uso de React Context
+    Las notificaciones deben ser enviadas haciendo uso de sidekiq
 
 Evaluación:
 
