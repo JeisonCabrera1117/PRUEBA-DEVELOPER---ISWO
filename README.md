@@ -12,7 +12,7 @@ Especificaciones técnicas:
     Se requiere desarrollar una API para proporcionar datos al FRONT-END.
     La base de datos utilizada debe ser relacional y el gestor de bases de datos PostgreSQL.
     La aplicación debe ser capaz de realizar operaciones CRUD.
-    El FRONT-END debe ser desarrollado con React.
+    El FRONT-END debe ser desarrollado con React y hacer uso de uso de React Context
 
 Evaluación:
 
