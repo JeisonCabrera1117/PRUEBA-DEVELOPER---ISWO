@@ -10,7 +10,7 @@ Especificaciones técnicas:
     Se debe emplear el framework Ruby on Rails para el desarrollo.
     El diseño de la aplicación debe seguir el patrón de arquitectura MVC (Modelo-Vista-Controlador).
     Se requiere desarrollar una API para proporcionar datos al FRONT-END.
-    La base de datos utilizada debe ser relacional y el gestor de bases de datos PostgreSQL.
+    La base de datos utilizada debe ser relacional
     La aplicación debe ser capaz de realizar operaciones CRUD.
     El FRONT-END debe ser desarrollado con React y hacer uso de uso de React Context
     Las notificaciones deben ser enviadas haciendo uso de sidekiq
